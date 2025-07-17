@@ -1,0 +1,16 @@
+
+openai
+langchain
+langchain-openai
+praw
+tiktoken
+python-dotenv
+streamlit
+reportlab
+plotly
+wordcloud
+pandas
+matplotlib
+seaborn
+scikit-learn
+plotly==5.21.0
