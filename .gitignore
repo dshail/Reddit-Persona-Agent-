@@ -1,5 +1,6 @@
 # Environment variables
 .env
+.env.example
 
 # Python
 __pycache__/
@@ -110,4 +111,4 @@ output/
 
 # OS
 .DS_Store
-Thumbs.db
+Thumbs.db.env
