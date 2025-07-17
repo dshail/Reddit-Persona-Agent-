@@ -113,3 +113,4 @@ output/
 .DS_Store
 Thumbs.db.env
 .env.example
+.env.example
